@@ -1,0 +1,10 @@
+langchain-google-genai
+langgraph
+python-dotenv
+langchain-openai
+openai
+pinecone
+tqdm
+supabase-py
+fastapi
+uvicorn[standard]
